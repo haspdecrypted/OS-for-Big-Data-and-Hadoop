@@ -105,8 +105,8 @@ If the IP address is 172.17.0.2, for example, the following are the addresses fo
 
 ## References
 
-- https://developer.yahoo.com/hadoop/tutorial/
-- http://blog.cloudera.com/blog/2009/08/hadoop-default-ports-quick-reference/
+- https://www.tutorialspoint.com/hadoop/index.htm
+- https://hadoop.apache.org/
 
 
 # Part 2
