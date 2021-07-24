@@ -1,5 +1,5 @@
-# OS-for-Big-Data-and-Hadoop
-----------------------------------
+# OS-for-Big-Data-and-Hadoop-(Cloudera)
+-----------------------------------------
 
 # Pre-requisites
 
